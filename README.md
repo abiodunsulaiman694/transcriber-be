@@ -7,3 +7,6 @@ To start the application in development mode:
  - Run `npm run dev`
  
 To run the application in production, run `npm start`
+
+
+[FE Code on Github](https://github.com/abiodunsulaiman694/transcriber-fe)
